@@ -1,2 +1,0 @@
-# WebApplicationTechnologies
-Web Application Technologies
